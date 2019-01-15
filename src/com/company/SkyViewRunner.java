@@ -13,6 +13,7 @@ public class SkyViewRunner {
 
         System.out.println("Average 1:"+ sv1.getAverage(startRow:1, endRow:3, startCol:0, endCol:2));
         System.out.println("Average 1:"+ sv2.getAverage(startRow:0, endRow:1, startCol:0, endCol:1));
-        
+
+
     }
 }
